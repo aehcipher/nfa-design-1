@@ -1,4 +1,4 @@
-**Alexander Haffty**
+**Alexander Haffty**  
 **CS3110**
 
 1. The problem that gave me the most trouble was problem 20.
