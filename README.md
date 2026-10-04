@@ -1,6 +1,5 @@
-# nfa-design-1
-# Alexander Haffty
-# CS3110
+**Alexander Haffty**
+**CS3110**
 
 1. The problem that gave me the most trouble was problem 20.
     I chose questions that I considered to be medium difficulty.
